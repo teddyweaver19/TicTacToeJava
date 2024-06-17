@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=TicTacToe()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ firstTurn()
+comment4.params=
+comment4.target=void\ check()
+comment5.params=a\ b\ c
+comment5.target=void\ xWins(int,\ int,\ int)
+comment6.params=a\ b\ c
+comment6.target=void\ oWins(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ disableButtons()
+comment8.params=
+comment8.target=void\ resetGame()
+comment9.params=
+comment9.target=void\ promptPlayAgain()
+numComments=10
